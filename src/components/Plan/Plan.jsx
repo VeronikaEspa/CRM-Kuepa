@@ -3,15 +3,25 @@ import './Plan.estilos.css'
 // import hola from '../../utils/img/detener.svg'
 function Plan() {
     return (
-      <div className="componenteEncabezado">
-        <div className="">
-            <div className="">
-                <h3>50%</h3>
-                <div className="barraMedidor"></div>
+      <div className="componentePlan">
+        <div className="conjuntoDeTarjetas">
+            <div className="tarjetaPlan">
+                <h1 className="numeroCantidad">30</h1>
+                <h4>Leads de primer contacto</h4>
+                <h5>16</h5>
+                <h5>16</h5>
             </div>
-            <div className="">
-                <h3>hola</h3>
-                <div className="barraMedidor">.</div>
+            <div className="tarjetaPlan">
+                <h1 className="numeroCantidad">20</h1>
+                <h4>Leads de confirmar cita</h4>
+                <h5>16</h5>
+                <h5>16</h5>
+            </div>
+            <div className="tarjetaPlan">
+                <h1 className="numeroCantidad">10</h1>
+                <h4>Leads de ultimo intento</h4>
+                <h5>16</h5>
+                <h5>16</h5>
             </div>
         </div>
       </div>

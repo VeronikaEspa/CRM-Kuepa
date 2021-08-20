@@ -6,12 +6,9 @@ function Faltante() {
       <div className="componenteEncabezado">
         <div className="">
             <div className="">
-                <h3>50%</h3>
-                <div className="barraMedidor"></div>
-            </div>
-            <div className="">
-                <h3>hola</h3>
-                <div className="barraMedidor">.</div>
+                <h3>Tabla de tareas pendientes</h3>
+                <h4>Nota: voy a seguir trabajando para terminar el proyecto lo antes posible</h4>
+                <h5>Att: Veronika</h5>
             </div>
         </div>
       </div>

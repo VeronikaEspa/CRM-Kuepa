@@ -1,0 +1,11 @@
+.conjuntoDeTarjetas{
+    display: flex;
+}
+.tarjetaPlan{
+    border: 5px solid rgba(21,27,102,1);
+    width: 30%;
+    border-radius: 30px;
+}
+.numeroCantidad{
+    text-decoration: linear-gradient(180deg, rgba(21,27,102,1) 15%, rgba(0,224,209,1) 54%);
+}
