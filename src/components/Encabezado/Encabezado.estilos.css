@@ -1,0 +1,14 @@
+.componenteEncabezado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buscarFiltrarYFecha{
+    margin: 4%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 600px;
+}
+.input, .fecha{
+    width: 100%;
+}

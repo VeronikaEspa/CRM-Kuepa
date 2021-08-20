@@ -1,0 +1,41 @@
+.componenteMenu{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    height: 100vh;
+}
+/*Logo Kuepa*/
+.logoKuepa{
+    background-color: #FBFBFB;
+    justify-content: flex-start;
+}
+.logoKuepa img{
+    width: 60%;
+}
+/*Organizar*/
+.paginasDelMenu, .usuarioNotifi{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.parteAbajoMenu{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90%;
+    justify-content: flex-end;
+}
+/*Imagenes los iconos de paginas*/
+.paginasDelMenu img{
+    width: 30%;
+    margin-top: 30%;
+}
+/*Parte usuario*/
+.usuarioNotifi img{
+    margin-top: 20%;
+}
+.notifi{
+    width: 30%;
+}
+.ana{
+    width: 50%;
+}

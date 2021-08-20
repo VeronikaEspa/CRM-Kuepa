@@ -1,0 +1,19 @@
+.totalParteMedio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cuatroContenedores{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* column-gap: 4%;
+    row-gap: auto; */
+}
+.totalParteMedio{
+    width: 80%;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    z-index: 2;
+    left: -20%;
+    background-color: #FBFBFB;
+}

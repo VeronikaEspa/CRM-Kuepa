@@ -1,0 +1,40 @@
+.componenteContactos{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    height: 100vh;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    justify-content: space-evenly;
+}
+.notificaciones{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30%;
+}
+.tarjeta1{
+    margin-top: 10%;
+    background-color: #FBFBFB;
+    border-radius: 20px;
+    width: 80%;
+    height: 90%;
+}
+.arribaTarjeta{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    line-height: 2%;
+}
+.iconoRedSocial{
+    width: 15%;
+}
+.abajoTarjeta{
+    margin-top: 2%;
+    background-color: #E2FAFC;
+    padding: 1%;
+    line-height: 2%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
