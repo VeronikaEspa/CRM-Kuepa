@@ -11,10 +11,14 @@ function ParteMedio() {
         <div className="">
             <Encabezado/>
             <div className="cuatroContenedores">
+              <div className="dobleContenedor1">
                 <MetaIndividual/>
                 <MetaGrupal/>
+              </div>
+                <div className="dobleContenedor2">
                 <Faltante/>
                 <Plan/>
+              </div>
             </div>
         </div>
       </div>

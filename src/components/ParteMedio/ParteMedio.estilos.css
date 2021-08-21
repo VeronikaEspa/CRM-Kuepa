@@ -1,13 +1,22 @@
 .totalParteMedio{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 .cuatroContenedores{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    /* column-gap: 4%;
-    row-gap: auto; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    grid-row: 30%;
+}
+.dobleContenedor1, .dobleContenedor2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dobleContenedor1{
+    margin-top: 3%;
+}
+.dobleContenedor2{
+    margin-top: 5%;
 }
 .totalParteMedio{
     width: 80%;

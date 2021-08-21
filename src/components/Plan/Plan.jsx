@@ -7,19 +7,19 @@ function Plan() {
         <div className="conjuntoDeTarjetas">
             <div className="tarjetaPlan">
                 <h1 className="numeroCantidad">30</h1>
-                <h4>Leads de primer contacto</h4>
+                <h4 className="descripciondeLosNumeros">Leads de primer contacto</h4>
                 <h5>16</h5>
                 <h5>16</h5>
             </div>
             <div className="tarjetaPlan">
                 <h1 className="numeroCantidad">20</h1>
-                <h4>Leads de confirmar cita</h4>
+                <h4 className="descripciondeLosNumeros">Leads de confirmar cita</h4>
                 <h5>16</h5>
                 <h5>16</h5>
             </div>
             <div className="tarjetaPlan">
                 <h1 className="numeroCantidad">10</h1>
-                <h4>Leads de ultimo intento</h4>
+                <h4 className="descripciondeLosNumeros">Leads de ultimo intento</h4>
                 <h5>16</h5>
                 <h5>16</h5>
             </div>

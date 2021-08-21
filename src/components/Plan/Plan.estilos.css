@@ -1,11 +1,35 @@
 .conjuntoDeTarjetas{
     display: flex;
+    justify-content: space-evenly;
+    width: 80%;
 }
-.tarjetaPlan{
-    border: 5px solid rgba(21,27,102,1);
-    width: 30%;
-    border-radius: 30px;
+.tarjetaPlan {
+    width: 20%;
+    height: 40%;
+    position: relative;
+    border: 8px solid transparent;
+    border-radius: 16px;
+    background: #FBFBFBFB;
+    background-clip: padding-box;
+    padding: 10px;
+}
+.tarjetaPlan::after{
+    position: absolute;
+    top: -8px; bottom: -8px;
+    left: -8px; right: -8px;
+    background: linear-gradient(rgba(21,27,102,1), rgba(0,224,209,1));
+    content: '';
+    z-index: -1;
+    border-radius: 16px;
 }
 .numeroCantidad{
-    text-decoration: linear-gradient(180deg, rgba(21,27,102,1) 15%, rgba(0,224,209,1) 54%);
+    line-height: 1;
+    margin: 0;
+    font-size: 60px;
+    background: -webkit-linear-gradient(rgba(21,27,102,1), rgba(0,224,209,1));
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.descripciondeLosNumeros{
+    font-size: 14px;
 }

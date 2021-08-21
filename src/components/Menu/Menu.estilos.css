@@ -1,7 +1,7 @@
 .componenteMenu{
     display: flex;
     flex-direction: column;
-    width: 10%;
+    width: 8%;
     height: 100vh;
 }
 /*Logo Kuepa*/
@@ -30,12 +30,13 @@
     margin-top: 30%;
 }
 /*Parte usuario*/
-.usuarioNotifi img{
-    margin-top: 20%;
+.usuarioNotifi{
+    margin-top: 100%;
 }
 .notifi{
     width: 30%;
 }
 .ana{
+    margin-top: 40%;
     width: 50%;
 }
