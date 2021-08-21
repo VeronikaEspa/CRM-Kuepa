@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CRM-Kuepa/static/css/main.b503c133.chunk.css",
+    "main.js": "/CRM-Kuepa/static/js/main.0d170d9b.chunk.js",
+    "main.js.map": "/CRM-Kuepa/static/js/main.0d170d9b.chunk.js.map",
+    "runtime-main.js": "/CRM-Kuepa/static/js/runtime-main.4bd7ec21.js",
+    "runtime-main.js.map": "/CRM-Kuepa/static/js/runtime-main.4bd7ec21.js.map",
+    "static/js/2.6f4f7a63.chunk.js": "/CRM-Kuepa/static/js/2.6f4f7a63.chunk.js",
+    "static/js/2.6f4f7a63.chunk.js.map": "/CRM-Kuepa/static/js/2.6f4f7a63.chunk.js.map",
+    "index.html": "/CRM-Kuepa/index.html",
+    "static/css/main.b503c133.chunk.css.map": "/CRM-Kuepa/static/css/main.b503c133.chunk.css.map",
+    "static/js/2.6f4f7a63.chunk.js.LICENSE.txt": "/CRM-Kuepa/static/js/2.6f4f7a63.chunk.js.LICENSE.txt",
+    "static/media/ana.c61bd885.png": "/CRM-Kuepa/static/media/ana.c61bd885.png",
+    "static/media/barraNivel.3567870d.svg": "/CRM-Kuepa/static/media/barraNivel.3567870d.svg",
+    "static/media/detener.3c4c7a85.svg": "/CRM-Kuepa/static/media/detener.3c4c7a85.svg",
+    "static/media/file.45567150.svg": "/CRM-Kuepa/static/media/file.45567150.svg",
+    "static/media/home.4578cf2c.svg": "/CRM-Kuepa/static/media/home.4578cf2c.svg",
+    "static/media/logoKuepa.aa6c14f5.png": "/CRM-Kuepa/static/media/logoKuepa.aa6c14f5.png",
+    "static/media/notifi.0de06a6f.svg": "/CRM-Kuepa/static/media/notifi.0de06a6f.svg",
+    "static/media/whatsapp.cfaa7866.svg": "/CRM-Kuepa/static/media/whatsapp.cfaa7866.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd7ec21.js",
+    "static/js/2.6f4f7a63.chunk.js",
+    "static/css/main.b503c133.chunk.css",
+    "static/js/main.0d170d9b.chunk.js"
+  ]
+}
