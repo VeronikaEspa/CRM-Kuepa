@@ -1,6 +1,5 @@
 .componenteContactos{
     display: flex;
-    flex-direction: column;
     width: 15%;
     height: 100vh;
     border-top-left-radius: 50px;
@@ -12,20 +11,19 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-left: 30%;
 }
 .tarjeta1{
     margin-top: 10%;
     background-color: #FBFBFB;
     border-radius: 20px;
-    width: 80%;
-    height: 90%;
+    width: 150px;
+    height: 100%;
 }
 .arribaTarjeta{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-evenly;
-    line-height: 2%;
+    line-height: 0;
 }
 .iconoRedSocial{
     width: 15%;
@@ -34,7 +32,14 @@
     margin-top: 2%;
     background-color: #E2FAFC;
     padding: 1%;
-    line-height: 2%;
+    line-height: 0;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+}
+.flechaContacto{
+    width: 5%;
+}
+.nombrePersona{
+    line-height: 0;
+    font-size: 15px;
 }

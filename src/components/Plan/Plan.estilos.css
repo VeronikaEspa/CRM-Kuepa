@@ -1,7 +1,6 @@
 .conjuntoDeTarjetas{
     display: flex;
     justify-content: space-evenly;
-    width: 80%;
 }
 .tarjetaPlan {
     width: 20%;

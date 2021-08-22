@@ -19,6 +19,9 @@ html, body{
 .naranja{
     background-color: #FF671B;
 }
+.celeste{
+    background-color: #00B2A6;
+}
 
 `
 export default GlobalStyles;

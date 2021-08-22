@@ -1,17 +1,18 @@
 .componenteIndividualMeta{
-    width: 50%;
+    width: 70%;
     border-radius: 20px;
     font-family: 'Helvetica';
 }
 .ubicacionContenedor{
     display: flex;
+    padding: 2%;
     align-items: center;
-    justify-content: center;
+    align-content: center;
+    justify-content: space-evenly;
 }
 .objetivosIndividual{
     display: flex;
     font-size: 14px;
 }
 .nivel50{
-    
 }

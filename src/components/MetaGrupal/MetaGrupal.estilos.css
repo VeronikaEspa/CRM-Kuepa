@@ -1,14 +1,17 @@
 .componenteGrupal{
-    width: 35%;
+    width: 40%;
     border-radius: 20px;
     font-family: 'Helvetica';
+    margin-left: 2%;
 }
 .textoAnesdeBarra{
     display: flex;
+    line-height: 0.5;
     justify-content: space-evenly;
     font-size: 14px;
 }
 .tituloMetaGrupal{
     display: flex;
+    line-height: 0.5;
     margin-left: 5%;
 }

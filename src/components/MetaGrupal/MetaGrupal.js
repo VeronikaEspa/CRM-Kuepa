@@ -8,8 +8,8 @@ function MetaGrupal() {
             <h2 className="tituloMetaGrupal">Meta grupal</h2>
             <div className="">
                 <div className="textoAnesdeBarra">
-                    <h4>Leads obtenidos</h4>
-                    <h4>200/400</h4>
+                    <p>Leads obtenidos</p>
+                    <p>200/400</p>
                 </div>
                 <div className="">
                     <img src={barra}/>
@@ -17,8 +17,8 @@ function MetaGrupal() {
             </div>
             <div className="">
                 <div className="textoAnesdeBarra">
-                        <h4>Matriculas realizadas</h4>
-                        <h4>50/100</h4>
+                        <p>Matriculas realizadas</p>
+                        <p>50/100</p>
                 </div>
                 <div className="">
                     <img src={barra}/>

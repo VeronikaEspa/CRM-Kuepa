@@ -1,11 +1,11 @@
 import React from 'react';
 import './Contacto.estilos.css'
 import whats from '../../utils/img/whatsapp.svg'
-// import file from '../../utils/img/file.svg'
-// import cuadro from '../../utils/img/detener.svg'
+import flecha from '../../utils/img/flechaMenu.svg'
 function Contactos() {
     return (
       <div className="componenteContactos degradeAzul">
+          <img src={flecha} className="flechaContacto"/>
         <div className="notificaciones">
             <div className="tarjeta1">
                 <div className="arribaTarjeta">
@@ -13,8 +13,8 @@ function Contactos() {
                     <img src={whats} className="iconoRedSocial"/>
                 </div>
                 <div className="abajoTarjeta">
-                    <h3>Jorge Garcia</h3>
-                    <h6>6 min ago</h6>
+                    <h3 className="nombrePersona">Jorge Garcia</h3>
+                    <p>6 min ago</p>
                 </div>
             </div>
             <div className="tarjeta1">
@@ -23,8 +23,8 @@ function Contactos() {
                     <img src={whats} className="iconoRedSocial"/>
                 </div>
                 <div className="abajoTarjeta">
-                    <h3>Jorge Garcia</h3>
-                    <h6>6 min ago</h6>
+                    <h3 className="nombrePersona">Jorge Garcia</h3>
+                    <p>6 min ago</p>
                 </div>
             </div>
             <div className="tarjeta1">
@@ -33,8 +33,8 @@ function Contactos() {
                     <img src={whats} className="iconoRedSocial"/>
                 </div>
                 <div className="abajoTarjeta">
-                    <h3>Jorge Garcia</h3>
-                    <h6>6 min ago</h6>
+                    <h3 className="nombrePersona">Jorge Garcia</h3>
+                    <p>6 min ago</p>
                 </div>
             </div>
             <div className="tarjeta1">
@@ -43,8 +43,8 @@ function Contactos() {
                     <img src={whats} className="iconoRedSocial"/>
                 </div>
                 <div className="abajoTarjeta">
-                    <h3>Jorge Garcia</h3>
-                    <h6>6 min ago</h6>
+                    <h3 className="nombrePersona">Jorge Garcia</h3>
+                    <p>6 min ago</p>
                 </div>
             </div>
             <div className="tarjeta1">
@@ -53,8 +53,8 @@ function Contactos() {
                     <img src={whats} className="iconoRedSocial"/>
                 </div>
                 <div className="abajoTarjeta">
-                    <h3>Jorge Garcia</h3>
-                    <h6>6 min ago</h6>
+                    <h3 className="nombrePersona">Jorge Garcia</h3>
+                    <p>6 min ago</p>
                 </div>
             </div>
         </div>

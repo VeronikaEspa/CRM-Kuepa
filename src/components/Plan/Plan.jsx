@@ -4,6 +4,8 @@ import './Plan.estilos.css'
 function Plan() {
     return (
       <div className="componentePlan">
+        <p>Ir a la gestión de llamados</p>
+        <h3>Tu plan de hoy</h3>
         <div className="conjuntoDeTarjetas">
             <div className="tarjetaPlan">
                 <h1 className="numeroCantidad">30</h1>

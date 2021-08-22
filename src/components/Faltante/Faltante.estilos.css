@@ -1,0 +1,43 @@
+.componenteFaltante{
+    width: 60%;
+}
+.tablaGeneral{
+    width: 100%;
+    color: #000010;
+    border: 1px solid transparent;
+    border-collapse: collapse;
+}
+.filasTabla{
+    border-right: 1px solid white;
+    background-color: #FBFBFB;
+    height: 50px;
+}
+.casillaFinal{
+    height: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.EncabezadYFinalTabla{
+    padding: 3%;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 20px;
+}
+.casilla1{
+    width: 60%;
+}
+.color5{
+    border-left: 6px solid #FFCF11;
+}
+.color3{
+    border-left: 6px solid #6F52DA;
+}
+.color2{
+    border-left: 6px solid #81CC47;
+}
+.color1, .color4{
+    border-left: 6px solid #00B2A6;
+}
+.fondoGris{
+    background-color: #E9E9E9;
+}
