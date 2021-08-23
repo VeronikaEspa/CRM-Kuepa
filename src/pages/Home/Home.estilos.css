@@ -1,26 +1,26 @@
 .totalParteMedio{
+    margin-left: 8%;
+    width: 50%;
+    position: static;
+    height: 100vh;
     display: flex;
     justify-content: center;
 }
 .cuatroContenedores{
+    width: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    grid-row: 30%;
 }
 .dobleContenedor1, .dobleContenedor2{
     display: flex;
     justify-content: space-evenly;
 }
-.dobleContenedor1{
+.dobleContenedor1, .dobleContenedor2{
     margin-top: 3%;
-}
-.dobleContenedor2{
-    margin-top: 5%;
 }
 .totalParteMedio{
     width: 80%;
-    border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
     z-index: 2;
     left: -20%;

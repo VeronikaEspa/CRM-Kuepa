@@ -1,9 +1,15 @@
+.componentePlan{
+    width: 80%;
+    margin-left: 2%;
+    justify-content: flex-end;
+}
 .conjuntoDeTarjetas{
     display: flex;
     justify-content: space-evenly;
 }
 .tarjetaPlan {
-    width: 20%;
+    width: 25%;
+    margin-left: 2%;
     height: 40%;
     position: relative;
     border: 8px solid transparent;
@@ -22,6 +28,7 @@
     border-radius: 16px;
 }
 .numeroCantidad{
+    font-family: "GothamMedium";
     line-height: 1;
     margin: 0;
     font-size: 60px;
@@ -31,4 +38,26 @@
 }
 .descripciondeLosNumeros{
     font-size: 14px;
+}
+.TituloPlanes{
+    font-family: "GothamMedium";
+}
+.botonMas{
+    width: 50%;
+    margin-left: 50%;
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    line-height: 0;
+}
+.botonMas img{
+    margin: 2%;
+}
+.numeroLlamadasMensajes{
+    display: flex;
+    line-height: 0;
+}
+.numeroLlamadasMensajes img{
+    margin: 2%;
+    margin-right: 10%;
 }

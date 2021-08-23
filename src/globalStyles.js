@@ -1,4 +1,8 @@
 import {createGlobalStyle} from 'styled-components'
+import GothamBold from './utils/fonts/Gotham-Font/GothamBold.woff'
+import GothamLight from './utils/fonts/Gotham-Font/GothamLight.woff'
+import GothamMedium from './utils/fonts/Gotham-Font/GothamMedium.woff'
+import GothamBookItalic from './utils/fonts/Gotham-Font/GothamBookItalic.woff'
 const GlobalStyles = createGlobalStyle `
 html, body{
     margin: 0;
@@ -22,6 +26,26 @@ html, body{
 .celeste{
     background-color: #00B2A6;
 }
-
+// FUENTES
+@font-face {
+    font-family: "GothamBold";
+    src: local("GothamBold"), url(${GothamBold}) format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamLight";
+    src: local("GothamLight"), url(${GothamLight}) format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamMedium";
+    src: local("GothamMedium"), url(${GothamMedium}) format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "GothamBookItalic";
+    src: local("GothamBookItalic"), url(${GothamBookItalic}) format("woff");
+    font-weight: normal;
+}
 `
 export default GlobalStyles;

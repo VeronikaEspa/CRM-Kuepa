@@ -8,19 +8,19 @@ function MetaIndividual() {
             <div className="nivel50">
                 <img src={nivel50}/>
             </div>
-            <div className="">
+            <div className="primeraLineaMeta">
               <div className="objetivosIndividual">
-                  <h3>Leads obtenidos</h3>
-                  <h3>50/100</h3>
+                  <p className="descripcionObjetivoIndividual">Leads obtenidos</p>
+                  <p>50/100</p>
               </div>
               <div className="objetivosIndividual">
-                <h3>Matriculas finalizadas</h3>
-                <h3>10/20</h3>
+                <p className="descripcionObjetivoIndividual">Matriculas finalizadas</p>
+                <p>10/20</p>
+              </div>
               </div>
               <div className="objetivosIndividual">
-                  <h3>Cola de llamados</h3>
-                  <h3>50/100</h3>
-              </div>
+                  <p className="descripcionObjetivoIndividual">Cola de llamados</p>
+                  <p>50/100</p>
             </div>
         </div>
       </div>

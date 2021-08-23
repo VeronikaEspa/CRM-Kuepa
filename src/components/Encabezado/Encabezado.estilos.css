@@ -12,3 +12,11 @@
 .input, .fecha{
     width: 100%;
 }
+.input{
+    padding: 6%;
+    margin: 2%;
+    padding-left: 8%;
+    border-radius: 5px;
+    border: 1px solid #9F400C;
+    background: url("../../utils/img/lupa.svg") 5px no-repeat;
+}

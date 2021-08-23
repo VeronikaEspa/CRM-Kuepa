@@ -3,6 +3,8 @@
     flex-direction: column;
     width: 8%;
     height: 100vh;
+    position: fixed;
+    padding-right: 3%;
 }
 /*Logo Kuepa*/
 .logoKuepa{
@@ -11,6 +13,7 @@
 }
 .logoKuepa img{
     width: 60%;
+    cursor: pointer;
 }
 /*Organizar*/
 .paginasDelMenu, .usuarioNotifi{
@@ -28,6 +31,7 @@
 .paginasDelMenu img{
     width: 30%;
     margin-top: 30%;
+    cursor: pointer;
 }
 /*Parte usuario*/
 .usuarioNotifi{
@@ -35,8 +39,10 @@
 }
 .notifi{
     width: 30%;
+    cursor: pointer;
 }
 .ana{
     margin-top: 40%;
     width: 50%;
+    cursor: pointer;
 }

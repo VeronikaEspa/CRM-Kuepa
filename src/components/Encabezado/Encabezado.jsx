@@ -5,11 +5,14 @@ function Encabezado() {
     return (
       <div className="componenteEncabezado">
         <div className="buscarFiltrarYFecha">
-            <div className="">
-              <input
-              className="input"
-              placeholder="Search..."
-              />
+              <div className="filtrarUsuario">
+                <input
+                        type="text"
+                        className="input"
+                        placeholder="Search..."
+                        name=""
+                        autocomplete="off"
+                />
               {/* <img src={filtro}/> */}
             </div>
             <select className="fecha">
