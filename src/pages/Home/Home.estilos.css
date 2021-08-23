@@ -1,9 +1,10 @@
 .totalParteMedio{
     margin-left: 8%;
-    width: 79%;
+    width: 65%;
     position: static;
     height: 100vh;
-    display: flex;
+    padding-left: 5%;
+    flex-direction: column;
     justify-content: center;
     border-bottom-left-radius: 50px;
     z-index: 2;

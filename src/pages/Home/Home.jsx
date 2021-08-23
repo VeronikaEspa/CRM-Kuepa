@@ -4,7 +4,6 @@ import './Home.estilos.css'
 function Home() {
     return (
         <div className="totalParteMedio">
-        <div className="">
             <Encabezado/>
             <div className="cuatroContenedores">
               <div className="dobleContenedor1">
@@ -15,7 +14,6 @@ function Home() {
                 <Faltante/>
                 <Plan/>
               </div>
-            </div>
         </div>
       </div>
     );
