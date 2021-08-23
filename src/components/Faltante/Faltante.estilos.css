@@ -27,7 +27,7 @@
     border-radius: 20px;
 }
 .casilla1{
-    width: 50%;
+    width: 40%;
 }
 .color5{
     border-left: 6px solid #FFCF11;
@@ -52,7 +52,7 @@
     align-content: center;
 }
 .circulo{
-    width: 18px;
+    width: 15px;
     border: 1px solid #000100;
     color: #E9E9E9;
     background-color: #E9E9E9;
@@ -68,11 +68,11 @@
 }
 .descuentoTabla{
     color: #636363;
-    font-size: 14px;
-    line-height: 0;
+    font-size: 12px;
 }
 .casillaLlamar{
     width: 30%;
+    line-height: 0;
     justify-content: flex-start;
 }
 .TituloTabla{

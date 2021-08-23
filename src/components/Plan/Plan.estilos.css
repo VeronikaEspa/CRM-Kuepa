@@ -1,6 +1,6 @@
 .componentePlan{
     width: 80%;
-    margin-left: 2%;
+    margin-left: 5%;
     justify-content: flex-end;
 }
 .conjuntoDeTarjetas{
@@ -8,7 +8,7 @@
     justify-content: space-evenly;
 }
 .tarjetaPlan {
-    width: 25%;
+    width: 50%;
     margin-left: 2%;
     height: 40%;
     position: relative;
@@ -37,13 +37,13 @@
    -webkit-text-fill-color: transparent;
 }
 .descripciondeLosNumeros{
-    font-size: 14px;
+    font-size: 12px;
 }
 .TituloPlanes{
     font-family: "GothamMedium";
 }
 .botonMas{
-    width: 50%;
+    width: 70%;
     margin-left: 50%;
     display: flex;
     justify-content: flex-end;

@@ -1,10 +1,13 @@
 .totalParteMedio{
     margin-left: 8%;
-    width: 50%;
+    width: 79%;
     position: static;
     height: 100vh;
     display: flex;
     justify-content: center;
+    border-bottom-left-radius: 50px;
+    z-index: 2;
+    background-color: #FBFBFB;
 }
 .cuatroContenedores{
     width: 100%;
@@ -18,11 +21,4 @@
 }
 .dobleContenedor1, .dobleContenedor2{
     margin-top: 3%;
-}
-.totalParteMedio{
-    width: 80%;
-    border-bottom-left-radius: 50px;
-    z-index: 2;
-    left: -20%;
-    background-color: #FBFBFB;
 }
