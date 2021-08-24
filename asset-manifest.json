@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CRM-Kuepa/static/css/main.010a788e.chunk.css",
-    "main.js": "/CRM-Kuepa/static/js/main.e3d2a387.chunk.js",
-    "main.js.map": "/CRM-Kuepa/static/js/main.e3d2a387.chunk.js.map",
+    "main.css": "/CRM-Kuepa/static/css/main.05ed927e.chunk.css",
+    "main.js": "/CRM-Kuepa/static/js/main.da7c546a.chunk.js",
+    "main.js.map": "/CRM-Kuepa/static/js/main.da7c546a.chunk.js.map",
     "runtime-main.js": "/CRM-Kuepa/static/js/runtime-main.4bd7ec21.js",
     "runtime-main.js.map": "/CRM-Kuepa/static/js/runtime-main.4bd7ec21.js.map",
     "static/js/2.1634bb0c.chunk.js": "/CRM-Kuepa/static/js/2.1634bb0c.chunk.js",
     "static/js/2.1634bb0c.chunk.js.map": "/CRM-Kuepa/static/js/2.1634bb0c.chunk.js.map",
     "index.html": "/CRM-Kuepa/index.html",
-    "static/css/main.010a788e.chunk.css.map": "/CRM-Kuepa/static/css/main.010a788e.chunk.css.map",
+    "static/css/main.05ed927e.chunk.css.map": "/CRM-Kuepa/static/css/main.05ed927e.chunk.css.map",
     "static/js/2.1634bb0c.chunk.js.LICENSE.txt": "/CRM-Kuepa/static/js/2.1634bb0c.chunk.js.LICENSE.txt",
     "static/media/GothamBold.85c4b78d.woff": "/CRM-Kuepa/static/media/GothamBold.85c4b78d.woff",
     "static/media/GothamBookItalic.db8c51c7.woff": "/CRM-Kuepa/static/media/GothamBookItalic.db8c51c7.woff",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.4bd7ec21.js",
     "static/js/2.1634bb0c.chunk.js",
-    "static/css/main.010a788e.chunk.css",
-    "static/js/main.e3d2a387.chunk.js"
+    "static/css/main.05ed927e.chunk.css",
+    "static/js/main.da7c546a.chunk.js"
   ]
 }
